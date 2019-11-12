@@ -1,0 +1,2 @@
+when connected to live stream of data, this python program can scan approx 40,000 strikes of options (index/stocks) trading in
+NSE for Call Put Parity if available anywhere.
